@@ -19,7 +19,7 @@ notebooks/
 
 ├── 02_densenet121_lstm.ipynb # TensorFlow: DenseNet121 + LSTM (with output & evaluation)
 
-└── 03_reference_gpt2_usage.py # Optional: GPT-2 reference/inference code
+
 
 
 ---
