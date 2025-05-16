@@ -38,11 +38,11 @@ Each notebook includes:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/medical-report-gen.git
+   git clone https://github.com/yaekobB/medical-report-gen.git
    cd medical-report-gen
 
 2. Install dependencies
-
+    ```bash
    pip install torch tensorflow transformers matplotlib
 3. Open the notebooks
 Use Jupyter Notebook, Colab, or VSCode with Python support.
