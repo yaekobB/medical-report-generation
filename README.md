@@ -66,8 +66,9 @@ Output visualizations
 📄 License
 This project is open-sourced under the MIT License.
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Yaekob — AI & Computer Science Student
+
 📬 Feel free to reach out or open an issue with feedback or contributions!
 
 
