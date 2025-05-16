@@ -15,7 +15,9 @@ Both models are trained, evaluated, and include report samples.
 
 notebooks/
 ├── 01_resnet50_gpt2.ipynb # PyTorch: ResNet50 + GPT-2 (with output & evaluation)
+
 ├── 02_densenet121_lstm.ipynb # TensorFlow: DenseNet121 + LSTM (with output & evaluation)
+
 └── 03_reference_gpt2_usage.py # Optional: GPT-2 reference/inference code
 
 
