@@ -47,14 +47,14 @@ Each notebook includes:
 3. Open the notebooks
 Use Jupyter Notebook, Colab, or VSCode with Python support.
 
-📦 Dataset
-Dataset Name: Chest X-rays (Indiana University)
+## 📦 Dataset
+ Dataset Name: Chest X-rays (Indiana University)
 
 Kaggle Link: https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university
 
 📌 Note: This dataset is not included in the repo. Download it from Kaggle and adjust the path in the notebook if needed.
 
-📷 Example Output
+## 📷 Example Output
 Included in notebooks:
 
 Sample generated reports
