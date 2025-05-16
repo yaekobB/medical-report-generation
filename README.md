@@ -63,6 +63,23 @@ Evaluation scores
 
 Output visualizations
 
+## Model Architecture
+
+![Model Architecture](images/model_architecture_LSTM.png)
+
+---
+
+## Sample Output
+
+![Sample Output](images/sample_output.png)
+
+---
+
+## Quantitative Comparison
+
+![Quantitative Comparison](images/comparison_chart.png)
+
+
 📄 License
 This project is open-sourced under the MIT License.
 
